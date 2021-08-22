@@ -21,17 +21,21 @@ export default function Topbar() {
                 <div className="topbarIcons">
                     <div className="topbarIconItem">
                         <Person />
-                        <span className="topbarIconBadge">1</span>
+                        <span className="topbarIconBadge">
+                            <span className='topbariconBadgeArrange'>1</span>
+                        </span>
                     </div>
                     <div className="topbarIconItem">
                         <Chat />
                         <span className="topbarIconBadge">
-                            <span className='topbariconBadgeArrange'>2</span>
+                            <span className='topbariconBadgeArrange'>222</span>
                         </span>
                     </div>
                     <div className="topbarIconItem">
                         <Notifications />
-                        <span className="topbarIconBadge">1</span>
+                        <span className="topbarIconBadge">
+                            <span className='topbariconBadgeArrange'>2</span>
+                        </span>
                     </div>
                 </div>
                 <img src="../assets/persons/1.png" alt="" className="topbarImg" />

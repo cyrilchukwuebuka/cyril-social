@@ -51,6 +51,78 @@ export default function () {
                         <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
                         <span className="leftbarFriendName">Jane Doe</span>
                     </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
+                    <li className="leftbarFriend">
+                        <img src="./assets/persons/2.png" alt="" className="leftbarFriendImg" />
+                        <span className="leftbarFriendName">Jane Doe</span>
+                    </li>
                 </ul>
             </div>
         </div>

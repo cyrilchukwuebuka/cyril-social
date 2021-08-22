@@ -72,20 +72,25 @@
 }
 
 .topbarIconBadge{
-    width: 55%;
-    height: 15px;
+    width: auto;
+    height: auto;
     background-color: red;
     border-radius: 50%;
     color: white;
     position: absolute;
     font-size: 12px;
-    /* padding: 10%; */
+    padding: 10%;
     top: -5px;
-    right: -7px;
+    right: -9px;
     align-items: center;
     justify-content: center;
 }
 
+.topbarIconBadgeArrange{
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+}
 
 .topbarImg{
     width: 32px;

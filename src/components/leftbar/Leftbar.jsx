@@ -2,7 +2,7 @@ import React from 'react';
 import "./leftbar.css";
 import { RssFeed, School, Event, WorkOutline, HelpOutline, Bookmark, Group, PlayCircleFilled, Chat} from "@material-ui/icons";
 
-export default function () {
+export default function Leftbar() {
     return (
         <div className="leftbar">
             <div className="leftbarWrapper">

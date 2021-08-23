@@ -5,7 +5,133 @@ export default function Rightbar() {
     return (
         <div className="rightbar">
             <div className="rightbarWrapper">
-                <div className="birthdayContainer"></div>
+                <div className="birthdayContainer">
+                    <img src="/assets/gift.png" alt="" className="birthdayImg" />
+                    <span className="birthdayText"><b> Sinach</b> and <b>3 other friends</b> have a birthday today</span>
+                </div>
+                <img src="/assets/ad.png" alt="" className="rightbarAd" />
+                <h4 className="rightbarTitle">Online Friends</h4>
+                <ul className="rightbarFriendList">
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img src="/assets/persons/3.png" alt="" className="rightbarProfileImg" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">John Wils</span>
+                    </li>
+                </ul>
             </div>       
         </div>
     )

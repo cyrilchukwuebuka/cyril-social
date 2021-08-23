@@ -6,6 +6,7 @@
     align-items: center;
     position: sticky;
     top: 0;
+    z-index: 999;
 }
 
 
@@ -78,7 +79,7 @@
     border-radius: 50%;
     color: white;
     position: absolute;
-    font-size: 12px;
+    font-size: 10px;
     padding: 10%;
     top: -5px;
     right: -9px;
@@ -89,7 +90,7 @@
 .topbarIconBadgeArrange{
     display: flex;
     align-items: center;
-    font-size: 1rem;
+    justify-content: center;
 }
 
 .topbarImg{

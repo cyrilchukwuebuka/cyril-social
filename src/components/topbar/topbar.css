@@ -58,9 +58,8 @@
 .topbarLink{
     margin-left : 10px;
     font-size: 14px;
-    cursor: pointer;
     justify-content: space-between;
-}
+},
 
 .topbarIcons{
     display: flex;
@@ -73,8 +72,8 @@
 }
 
 .topbarIconBadge{
-    width: auto;
-    height: auto;
+    width: 15px;
+    height: 15px;
     background-color: red;
     border-radius: 50%;
     color: white;
@@ -82,10 +81,10 @@
     font-size: 10px;
     padding: 10%;
     top: -5px;
-    right: -9px;
+    right: -5   px;
     align-items: center;
     justify-content: center;
-}
+} 
 
 .topbarIconBadgeArrange{
     display: flex;

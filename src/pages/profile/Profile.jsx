@@ -23,9 +23,9 @@ export default function Profile() {
                         </div>
                     </div>
                     <div className="profileRightBottom">
-                    <Feed />
-                    <Rightbar profile />
-                </div>
+                        <Feed />
+                        <Rightbar profile />
+                    </div>
                 </div>
             </div>
         </>

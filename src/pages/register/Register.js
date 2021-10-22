@@ -3,19 +3,19 @@ import "./register.css"
 
 export default function Register() {
     return (
-        <div className="login">
-            <div className="loginWrapper">
-            <div className="loginLeft">
-                <h3 className="loginLogo">CyrilSocial</h3>
-                <span className="loginDesc">Connect with friends and the world around you on Cyrilsocial</span>
+        <div className="register">
+            <div className="registerWrapper">
+            <div className="registerLeft">
+                <h3 className="registerLogo">CyrilSocial</h3>
+                <span className="registerDesc">Connect with friends and the world around you on Cyrilsocial</span>
             </div>
-            <div className="loginRight">
-                <div className="loginBox">
-                    <input placeholder="Username" className="loginInput" />
-                    <input placeholder="Email" className="loginInput" />
-                    <input placeholder="Password" className="loginInput" />
-                    <input placeholder="Password Again" className="loginInput" />
-                    <button className="loginButton">Sign Up</button>
+            <div className="registerRight">
+                <div className="registerBox">
+                    <input placeholder="Username" type="text" className="registerInput" />
+                    <input placeholder="Email" type="email" className="registerInput" />
+                    <input placeholder="Password" type="password" className="registerInput" />
+                    <input placeholder="Password Again" type="password" className="loginInput" />
+                    <button className="registerButton">Sign Up</button>
                     <button className="loginRegisterButton">Log into Account</button>
                 </div>
             </div>

@@ -1,52 +1,52 @@
 export const Users = [
     {
         id: 1,
-        profilePicture: "/assets/persons/1.png",
+        profilePicture: "persons/1.png",
         username: "Cyril Chukwuebuka"
     },
     {
         id: 2,
-        profilePicture: "/assets/persons/2.png",
+        profilePicture: "persons/2.png",
         username: "Skri Finogul"
     },
     {
         id: 3,
-        profilePicture: "/assets/persons/3.png",
+        profilePicture: "persons/3.png",
         username: "Sk Aogul"
     },
     {
         id: 4,
-        profilePicture: "/assets/persons/4.png",
+        profilePicture: "persons/4.png",
         username: "Oafa Cogul"
     },
     {
         id: 5,
-        profilePicture: "/assets/persons/5.png",
+        profilePicture: "persons/5.png",
         username: "Safa RisKoca"
     },
     {
         id: 6,
-        profilePicture: "/assets/persons/6.png",
+        profilePicture: "persons/6.png",
         username: "fak ocoul"
     },
     {
         id: 7,
-        profilePicture: "/assets/persons/7.png",
+        profilePicture: "persons/7.png",
         username: "Kan ogul"
     },
     {
         id: 8,
-        profilePicture: "/assets/persons/8.png",
+        profilePicture: "persons/8.png",
         username: "Sari Piaogul"
     },
     {
         id: 9,
-        profilePicture: "/assets/persons/9.png",
+        profilePicture: "persons/9.png",
         username: "Paak Socp"
     },
     {
         id: 10,
-        profilePicture: "/assets/persons/10.png",
+        profilePicture: "persons/10.png",
         username: "Safak Kocaogul"
     },
 ];
@@ -56,7 +56,7 @@ export const Posts = [
     {
         id: 1,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/1.png",
+        photo: "persons/1.png",
         date: "5 mins ago",
         userId: 1,
         like: 3,
@@ -64,7 +64,7 @@ export const Posts = [
     },
     {
         id: 2,
-        photo: "/assets/persons/2.png",
+        photo: "persons/2.png",
         date: "5 mins ago",
         userId: 2,
         like: 32,
@@ -73,7 +73,7 @@ export const Posts = [
     {
         id: 3,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/3.png",
+        photo: "persons/3.png",
         date: "5 mins ago",
         userId: 3,
         like: 2,
@@ -81,7 +81,7 @@ export const Posts = [
     },
     {
         id: 4,
-        photo: "/assets/persons/4.png",
+        photo: "persons/4.png",
         date: "5 mins ago",
         userId: 4,
         like: 132,
@@ -89,7 +89,7 @@ export const Posts = [
     },
     {
         id: 5,
-        photo: "/assets/persons/5.png",
+        photo: "persons/5.png",
         date: "5 mins ago",
         userId: 5,
         like: 352,
@@ -97,7 +97,7 @@ export const Posts = [
     },
     {
         id: 6,
-        photo: "/assets/persons/6.png",
+        photo: "persons/6.png",
         date: "5 mins ago",
         userId: 6,
         like: 42,
@@ -106,7 +106,7 @@ export const Posts = [
     {
         id: 7,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/7.png",
+        photo: "persons/7.png",
         date: "5 mins ago",
         userId: 7,
         like: 35,
@@ -115,7 +115,7 @@ export const Posts = [
     {
         id: 8,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/8.png",
+        photo: "persons/8.png",
         date: "5 mins ago",
         userId: 8,
         like: 32,
@@ -124,7 +124,7 @@ export const Posts = [
     {
         id: 9,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/9.png",
+        photo: "persons/9.png",
         date: "5 mins ago",
         userId: 9,
         like: 32,
@@ -133,7 +133,7 @@ export const Posts = [
     {
         id: 10,
         desc: "Love for All, Hatred for None",
-        photo: "/assets/persons/10.png",
+        photo: "persons/10.png",
         date: "5 mins ago",
         userId: 10,
         like: 324,

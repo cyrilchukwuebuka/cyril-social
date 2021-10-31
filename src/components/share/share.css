@@ -28,7 +28,7 @@
     width: 80%;
 }
 
-.shareInput::focus{
+.shareInput:focus{
     outline: none;   
 }
 
